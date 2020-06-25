@@ -1,0 +1,40 @@
+.calcu {
+    border: 5px solid black;
+    display: block;
+    margin: 0px 45%;
+    position: absolute;
+    padding: 10px;
+    width: 200px;
+    height: 200px;
+    background-color: #21211F;
+    color: #A8A8A8;
+}
+
+.calcu .input1 {
+    width: 95%;
+}
+
+.calcu .onlyBtn {
+    margin: 0 auto;
+    margin-left: -6px;
+    padding-top: 14px;
+}
+
+.calcu .Btn {
+    margin-top: 7px;
+    margin-left: 15px;
+    height: 25px;
+    width: 30px;
+    background-color: #343434;
+    border: none;
+    color: #A8A8A8;
+
+}
+
+.calcu .Zero {
+    width: 79px !important;
+}
+
+.calcu .Color {
+    background-color: #1B3846 !important;
+}
